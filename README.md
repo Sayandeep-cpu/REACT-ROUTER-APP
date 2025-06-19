@@ -21,4 +21,4 @@ All pages are currently placeholder (blank) but are connected using routing.
 👨‍💻 Author
 Sayandeep Saha
 📧 sayandeepsaha.70@gmail.com
-🔗 GitHub Profile[Sayandeep-cpu]
+🔗 GitHub Profile(https://github.com/Sayandeep-cpu/REACT-ROUTER-APP)
